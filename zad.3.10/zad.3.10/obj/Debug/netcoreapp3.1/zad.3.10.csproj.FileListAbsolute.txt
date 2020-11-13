@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\bin\Debug\netcoreapp3.1\zad.3.10.exe
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\bin\Debug\netcoreapp3.1\zad.3.10.deps.json
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\bin\Debug\netcoreapp3.1\zad.3.10.runtimeconfig.json
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\bin\Debug\netcoreapp3.1\zad.3.10.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\bin\Debug\netcoreapp3.1\zad.3.10.dll
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\bin\Debug\netcoreapp3.1\zad.3.10.pdb
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\obj\Debug\netcoreapp3.1\zad.3.10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\obj\Debug\netcoreapp3.1\zad.3.10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\obj\Debug\netcoreapp3.1\zad.3.10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\obj\Debug\netcoreapp3.1\zad.3.10.dll
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\obj\Debug\netcoreapp3.1\zad.3.10.pdb
+C:\Users\Asus\Desktop\Obiektówka\zad.3.10\zad.3.10\obj\Debug\netcoreapp3.1\zad.3.10.genruntimeconfig.cache
