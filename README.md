@@ -1,1 +1,1 @@
-# obiektowe1
+# prog-obiektowe
