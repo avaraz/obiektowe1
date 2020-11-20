@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\obj\Debug\netcoreapp3.1\zad.4.01.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\obj\Debug\netcoreapp3.1\zad.4.01.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\obj\Debug\netcoreapp3.1\zad.4.01.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\obj\Debug\netcoreapp3.1\zad.4.01.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\bin\Debug\netcoreapp3.1\zad.4.01.exe
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\bin\Debug\netcoreapp3.1\zad.4.01.deps.json
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\bin\Debug\netcoreapp3.1\zad.4.01.runtimeconfig.json
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\bin\Debug\netcoreapp3.1\zad.4.01.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\bin\Debug\netcoreapp3.1\zad.4.01.dll
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\bin\Debug\netcoreapp3.1\zad.4.01.pdb
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\obj\Debug\netcoreapp3.1\zad.4.01.dll
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\obj\Debug\netcoreapp3.1\zad.4.01.pdb
+C:\Users\Asus\Desktop\Obiektówka\zad.4.01\zad.4.01\obj\Debug\netcoreapp3.1\zad.4.01.genruntimeconfig.cache
