@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\obj\Debug\netcoreapp3.1\zad.5.04.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\obj\Debug\netcoreapp3.1\zad.5.04.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\obj\Debug\netcoreapp3.1\zad.5.04.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\bin\Debug\netcoreapp3.1\zad.5.04.exe
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\bin\Debug\netcoreapp3.1\zad.5.04.deps.json
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\bin\Debug\netcoreapp3.1\zad.5.04.runtimeconfig.json
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\bin\Debug\netcoreapp3.1\zad.5.04.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\bin\Debug\netcoreapp3.1\zad.5.04.dll
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\bin\Debug\netcoreapp3.1\zad.5.04.pdb
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\obj\Debug\netcoreapp3.1\zad.5.04.dll
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\obj\Debug\netcoreapp3.1\zad.5.04.pdb
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\obj\Debug\netcoreapp3.1\zad.5.04.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Obiektówka\zad.5.04\zad.5.04\obj\Debug\netcoreapp3.1\zad.5.04.csprojAssemblyReference.cache
