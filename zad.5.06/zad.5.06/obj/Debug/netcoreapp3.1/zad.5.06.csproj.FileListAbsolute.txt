@@ -1,0 +1,13 @@
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\bin\Debug\netcoreapp3.1\zad.5.06.exe
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\bin\Debug\netcoreapp3.1\zad.5.06.deps.json
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\bin\Debug\netcoreapp3.1\zad.5.06.runtimeconfig.json
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\bin\Debug\netcoreapp3.1\zad.5.06.runtimeconfig.dev.json
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\bin\Debug\netcoreapp3.1\zad.5.06.dll
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\bin\Debug\netcoreapp3.1\zad.5.06.pdb
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\obj\Debug\netcoreapp3.1\zad.5.06.csprojAssemblyReference.cache
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\obj\Debug\netcoreapp3.1\zad.5.06.AssemblyInfoInputs.cache
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\obj\Debug\netcoreapp3.1\zad.5.06.AssemblyInfo.cs
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\obj\Debug\netcoreapp3.1\zad.5.06.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\obj\Debug\netcoreapp3.1\zad.5.06.dll
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\obj\Debug\netcoreapp3.1\zad.5.06.pdb
+C:\Users\Kasia\Desktop\studia\prog obiekt\zad.5.06\zad.5.06\obj\Debug\netcoreapp3.1\zad.5.06.genruntimeconfig.cache
